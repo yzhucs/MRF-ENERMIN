@@ -1,0 +1,1 @@
+This is a package to conduct Markove random field (MRF) energy minimization using the GraphCut approach. For how to use it, please start with the script file energy_minimization.m.
